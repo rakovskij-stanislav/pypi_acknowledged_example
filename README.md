@@ -1,6 +1,6 @@
 # pypi_acknowledged_example
 
-This is an example repository that represents .pypi_acknowledged.txt feature
+This is an example repository that represents .pypi_acknowledged feature
 
 ## Why it's essential to validate python packages?
 
